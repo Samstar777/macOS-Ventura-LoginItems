@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Service Management - Managed Login Items</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.servicemanagement.6A1E66B9-C932-4495-8527-D281BAA95E40</string>
+			<key>PayloadType</key>
+			<string>com.apple.servicemanagement</string>
+			<key>PayloadUUID</key>
+			<string>A20238A5-9416-4845-8C02-F0CC46A6D779</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Rules</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>Jamf Software</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>483DWKW443</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Citrix Workspace</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>S272Y5R93J</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>FireEye, Inc.</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>P2BNL68L2C</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft Corporation</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>UBF8T346G9</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Zscaler</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>PCBCQZJ7S7</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Octory</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>5G89W3T34F</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Zoom</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>BJ4HAAB9B3</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Duti</string>
+					<key>RuleType</key>
+					<string>BundleIdentifier</string>
+					<key>RuleValue</key>
+					<string>com.duti.outlookdefaults.plist</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>System Managed Login Items New</string>
+	<key>PayloadIdentifier</key>
+	<string>macK2XYW17MD9.F2272CA6-E40E-4D6E-9966-202A5025E82B</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C0565A82-657C-4527-B76F-D6C8E9B355BE</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
