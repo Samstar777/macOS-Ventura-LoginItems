@@ -2,16 +2,16 @@
 
 Sample Configuration Profile XML
 Note: all items are evaluated against all RuleTypes and when matched it will be locked in the UI and automatically approved. Rule types to consider:
-• BundleIdentifier
-• The bundle identifier of the app to match, which must be an exact match.
-• BundleIdentifierPrefix
-• The prefix of the bundle identifier of the app to match.
-• Label
-• The value of the launchd plist Label parameter to match, which must be an exact match.
-• LabelPrefix
-• The prefix of the launchd plist Label parameter to match.
-• TeamIdentifier
-• The team identifier from the code signing attributes, which must be an exact match. Edit the XML below to identify Background and Login Items you plan to manage:
+- BundleIdentifier
+- The bundle identifier of the app to match, which must be an exact match.
+- BundleIdentifierPrefix
+- The prefix of the bundle identifier of the app to match.
+- Label
+- The value of the launchd plist Label parameter to match, which must be an exact match.
+- LabelPrefix
+- The prefix of the launchd plist Label parameter to match.
+- TeamIdentifier
+- The team identifier from the code signing attributes, which must be an exact match. Edit the XML below to identify Background and Login Items you plan to manage:
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/
 DTDs/PropertyList-1.0.dtd">
@@ -95,3 +95,7 @@ Login and Background Item Management September 2022
      <string>System</string>
 </dict>
 </plist>
+
+*Attachment*
+
+Sample System Managed Login Items mobileconfig for reference
