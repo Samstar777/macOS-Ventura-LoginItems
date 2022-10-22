@@ -11,7 +11,7 @@ Note: all items are evaluated against all RuleTypes and when matched it will be 
 - LabelPrefix
      - The prefix of the launchd plist Label parameter to match.
 - TeamIdentifier
-     - The team identifier from the code signing attributes, which must be an exact match. Edit the XML below to identify Background and Login Items you plan to manage:
+     - The team identifier from the code signing attributes, which must be an exact match.
 
 **Attachment**
 - sample code.plist
