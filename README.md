@@ -1,6 +1,6 @@
 # macOS-Ventura-LoginItems
 
-Sample Configuration Profile XML
+Sample Code.plist
 Note: all items are evaluated against all RuleTypes and when matched it will be locked in the UI and automatically approved. Rule types to consider:
 - BundleIdentifier
      - The bundle identifier of the app to match, which must be an exact match.
